@@ -1,0 +1,143 @@
+CustomerID,Name,Email,Phone,Country,SignupDate,Category,CleanOrderAmount
+1111,Omar Hernandez,omar.hernandez@yahoo.com,2921851569,United Kingdom,2022-11-21,Sports,
+1064,Omar Al-Sayed,omar.al-sayed@yahoo.com,2067240049,United States,2021-08-08,Clothing,1144.06
+1122,Barbara Miller,barbara.miller@company.com,7279855241,Australia,2021-02-26,Clothing,419.82
+1016,Robert Moore,robert.moore@company.com,1399049027,Saudi Arabia,2022-07-24,Sports,-1592.44
+1116,Jennifer Aziz,,1714677418,Canada,2022-01-14,Books,-932.96
+1017,Karen Lopez,karen.lopez@hotmail.com,+10715451680,Germany,2024-01-17,Clothing,149.7
+1141,David Gonzalez,david.gonzalez@company.com,1091043006,United Kingdom,2022-08-10,Sports,-1067.58
+1127,William Wilson,william.wilson@outlook.com,5250074329,Australia,2023-09-30,Sports,1541.98
+1073,Ahmed Al-Sayed,ahmed.al-sayed@hotmail.com,+19837354033,,2021-08-29,Electronics,1743.63
+1055,John Khan,john.khan@gmail.com,3969078447,Canada,2024-11-03,Books,1142.06
+1104,Barbara Martinez,barbara.martinez@outlook.com,3865719182,United Kingdom,2021-06-03,Toys,1095.93
+1062,James Jackson,james.jackson@hotmail.com,9866524041,Germany,2023-06-25,Clothing,546.76
+1093,Patricia Jackson,patricia.jackson@hotmail.com,+11751863637,United Kingdom,2022-10-24,Books,
+1036,Barbara Davis,barbara.davis@gmail.com,4451076226,United Kingdom,2024-12-12,Books,194.11
+1087,Charles Aziz,charles.aziz@yahoo.com,9660334191,Germany,2022-01-18,Electronics,
+1022,Barbara Lopez,barbara.lopez@hotmail.com,1724005045,United Kingdom,2023-06-02,Sports,1334.95
+1008,Omar Moore,omar.moore@company.com,1904966319,Canada,2024-07-08,Clothing,1747.52
+1025,Sarah Aziz,sarah.aziz@hotmail.com,5884247451,United Kingdom,2021-06-04,Clothing,2152.45
+1018,Omar Williams,omar.williams@yahoo.com,9324808613,United States,2023-08-04,Sports,1253.46
+1098,David Gonzalez,david.gonzalez@company.com,1091043006,United Kingdom,2022-08-10,Sports,-1067.58
+1084,Susan Hassan,susan.hassan@hotmail.com,7968868058,Australia,2024-07-30,Books,1925.85
+1027,Omar Moore,,3826758692,United Kingdom,2024-09-03,Sports,1544.9
+1026,Joseph Gonzalez,joseph.gonzalez@gmail.com,+14965137098,Saudi Arabia,2024-06-03,Sports,-1593.98
+1100,Noura Williams,noura.williams@gmail.com,+14252410564,United States,2021-05-11,Toys,1247.93
+1121,Mary Martinez,mary.martinez@yahoo.com,5082148628,Saudi Arabia,2021-12-22,Electronics,
+1075,Linda Miller,linda.miller@hotmail.com,7725228728,United Kingdom,2023-12-10,Books,2363.79
+1023,David Hassan,david.hassan@yahoo.com,0748217594,Australia,2023-05-19,Sports,
+1074,Richard Aziz,richard.aziz@hotmail.com,+17535560932,Saudi Arabia,2022-06-19,,-1454.17
+1106,Karen Al-Sayed,karen.al-sayed@gmail.com,+15680442067,Germany,2024-02-01,Electronics,1163.18
+1040,Richard Martin,richard.martin@hotmail.com,+15182037788,Canada,2021-11-22,Books,2296.07
+1137,Patricia Rodriguez,patricia.rodriguez@company.com,+16149331637,United Kingdom,2022-11-24,Books,130.55
+1083,Richard Rodriguez,richard.rodriguez@outlook.com,+15193982807,Canada,2022-03-06,Home & Garden,
+1107,Fatima Moore,fatima.moore@outlook.com,1013721510,Saudi Arabia,2021-04-14,Sports,2056.89
+1082,Mary Garcia,mary.garcia@yahoo.com,0659657569,Canada,2022-09-08,,
+1112,Ahmed Rodriguez,ahmed.rodriguez@company.com,2644220969,Germany,2022-01-08,Toys,2303.78
+1014,Karen Rodriguez,karen.rodriguez@outlook.com,9091334123,United States,2024-02-05,Sports,-21.65
+1005,Mary Smith,mary.smith@yahoo.com,6658760366,United States,2024-11-25,Clothing,
+1103,John Lopez,john.lopez@company.com,3832060385,,2024-11-21,Clothing,18.63
+1001,Ahmed Brown,,3561595148,United States,2024-09-27,Sports,1014.96
+1044,Patricia Martinez,patricia.martinez@yahoo.com,8141247826,Canada,2022-03-31,Clothing,-2327.22
+1035,Charles Wilson,charles.wilson@company.com,1476797643,Germany,2021-08-22,Toys,290.56
+1136,Sara Moore,sara.moore@company.com,8837550375,Saudi Arabia,2024-09-07,Electronics,298.35
+1118,Patricia Williams,patricia.williams@company.com,2332061632,Australia,2022-06-13,Clothing,231.26
+1143,Fatima Moore,fatima.moore@outlook.com,1013721510,Saudi Arabia,2021-04-14,Sports,2056.89
+1056,Jennifer Rodriguez,jennifer.rodriguez@hotmail.com,8153714732,Germany,2021-04-14,Books,-2162.45
+1096,Thomas Hernandez,thomas.hernandez@yahoo.com,2753269731,Saudi Arabia,2021-10-14,Clothing,1829.07
+1013,Richard Brown,richard.brown@outlook.com,5204711671,Saudi Arabia,2021-11-07,Home & Garden,
+1094,Karen Johnson,,+10127706324,Germany,2022-07-16,Electronics,637.22
+1019,Linda Martinez,linda.martinez@company.com,+12146584044,United States,2024-04-02,Clothing,-1124.67
+1003,Layla Brown,,1769367632,Australia,2024-11-09,Sports,
+1078,Joseph Moore,joseph.moore@hotmail.com,3974014890,United States,2022-10-07,Electronics,1473.78
+1089,Charles Thomas,charles.thomas@yahoo.com,0507236887,Germany,2024-11-03,Books,-1779.7
+1109,Patricia Aziz,patricia.aziz@outlook.com,9304078593,Germany,2021-07-25,Clothing,677.32
+1092,Robert Khan,robert.khan@company.com,+10422325367,United Kingdom,2024-03-28,Toys,
+1130,Khalid Johnson,khalid.johnson@gmail.com,4723046184,Canada,2024-05-25,Clothing,
+1117,Omar Wilson,,1586938068,Germany,2024-01-02,,-2205.91
+1099,Ahmed Martinez,,2856914630,Canada,2021-06-26,Home & Garden,1141.63
+1053,Robert Williams,robert.williams@hotmail.com,9125177852,Australia,2024-08-03,Toys,
+1139,Susan Lopez,susan.lopez@hotmail.com,+14858333945,Australia,2021-09-29,Home & Garden,1780.23
+1059,Richard Khan,richard.khan@outlook.com,5269495888,Australia,2024-12-22,Home & Garden,
+1146,Karen Rodriguez,karen.rodriguez@outlook.com,9091334123,United States,2024-02-05,Sports,-21.65
+1037,Jessica Williams,jessica.williams@company.com,2975161369,United States,2023-12-10,Electronics,2178.25
+1033,David Jones,david.jones@outlook.com,9832731585,United Kingdom,2022-07-25,Sports,2020.95
+1131,Michael Anderson,michael.anderson@yahoo.com,2087375300,Saudi Arabia,2021-08-15,Home & Garden,
+1061,Linda Davis,linda.davis@gmail.com,6527858549,United States,2022-01-29,Home & Garden,
+1049,Barbara Garcia,barbara.garcia@outlook.com,6169284511,Germany,2024-09-15,Books,1123.1
+1125,John Davis,john.davis@gmail.com,+18758428241,United Kingdom,2021-09-20,Clothing,
+1123,Fatima Brown,fatima.brown@outlook.com,2290349446,Saudi Arabia,2022-12-16,Books,557.25
+1032,Richard Al-Sayed,richard.al-sayed@yahoo.com,5452711116,Canada,2023-02-03,Clothing,164.05
+1138,David Johnson,david.johnson@company.com,6978292216,,2024-05-14,Books,1267.71
+1142,Noura Williams,noura.williams@gmail.com,+14252410564,United States,2021-05-11,Toys,1247.93
+1090,Jennifer Johnson,,7978819148,Germany,2024-01-16,Electronics,1372.69
+1015,Joseph Moore,joseph.moore@outlook.com,+19361832421,United States,2021-12-06,Toys,-1106.3
+1129,Yousef Hassan,yousef.hassan@hotmail.com,6033230982,United States,2023-01-21,Toys,2193.21
+1134,David Williams,david.williams@outlook.com,+18993588916,Saudi Arabia,2023-09-14,Home & Garden,384.41
+1135,Ahmed Taylor,ahmed.taylor@outlook.com,4083866317,Canada,2024-03-19,Sports,-2143.62
+1080,Noura Davis,noura.davis@company.com,+11426265511,United Kingdom,2022-09-24,Toys,
+1088,Layla Hernandez,layla.hernandez@outlook.com,+14991251341,United States,2023-02-04,,980.33
+1038,John Al-Sayed,john.al-sayed@yahoo.com,+13124329212,United Kingdom,2023-08-09,Sports,1707.62
+1047,Patricia Al-Sayed,,0515319520,Saudi Arabia,2024-01-24,Sports,2078.5
+1086,Michael Martinez,michael.martinez@yahoo.com,1775140105,United Kingdom,2024-10-18,Electronics,1297.24
+1043,Noura Rodriguez,noura.rodriguez@company.com,3794738347,Australia,2023-01-24,Home & Garden,1162.27
+1113,David Johnson,david.johnson@yahoo.com,+15704331541,,2021-01-03,Sports,-1103.98
+1028,William Johnson,william.johnson@hotmail.com,5064317139,United Kingdom,2021-04-14,Electronics,2472.22
+1105,Sara Moore,sara.moore@hotmail.com,+19121277561,Australia,2023-01-04,Home & Garden,781.14
+1012,Noura Hernandez,noura.hernandez@hotmail.com,3749894134,United States,2023-01-10,Electronics,50.16
+1069,Linda Thomas,linda.thomas@yahoo.com,6766182512,Canada,2023-03-16,Clothing,
+1070,Patricia Brown,patricia.brown@company.com,1069033119,Australia,2023-07-04,Toys,
+1054,Sara Williams,sara.williams@yahoo.com,1438424981,Germany,2024-08-05,Clothing,
+1021,Joseph Al-Sayed,joseph.al-sayed@hotmail.com,2621745961,Saudi Arabia,2024-10-13,Clothing,2386.04
+1145,Omar Moore,,3826758692,United Kingdom,2024-09-03,Sports,1544.9
+1009,Joseph Jackson,,1850671657,Saudi Arabia,2023-06-11,,2414.2
+1067,Jessica Miller,jessica.miller@company.com,1878519108,Germany,2022-02-19,Clothing,387.38
+1024,Robert Martin,robert.martin@hotmail.com,0974395339,Australia,2024-10-20,Clothing,2259.96
+1029,Yousef Hernandez,yousef.hernandez@yahoo.com,,Canada,2021-09-24,Home & Garden,
+1133,Fatima Miller,fatima.miller@outlook.com,2021697972,Canada,2023-02-17,Home & Garden,2158.5
+1041,David Moore,david.moore@hotmail.com,+19251925462,United States,2024-12-22,Sports,1403.92
+1126,Susan Smith,susan.smith@hotmail.com,1709991738,United Kingdom,2024-10-26,Sports,1041.57
+1101,Karen Jackson,karen.jackson@company.com,,United States,2022-05-16,Electronics,919.48
+1010,Noura Garcia,noura.garcia@hotmail.com,7996507527,Australia,2022-12-28,Toys,709.95
+1058,Omar Miller,omar.miller@gmail.com,8784991216,Australia,2022-11-26,Home & Garden,
+1071,Barbara Wilson,barbara.wilson@hotmail.com,5342836440,Canada,2024-04-26,Toys,
+1102,Sarah Miller,sarah.miller@outlook.com,1951802380,Germany,2021-05-22,Home & Garden,1937.22
+1063,Charles Davis,charles.davis@yahoo.com,0165712082,United States,2024-08-30,Electronics,1631.59
+1039,Susan Martin,susan.martin@outlook.com,0581477005,United States,2021-06-07,Toys,1164.84
+1128,Yousef Davis,yousef.davis@hotmail.com,0335421689,Saudi Arabia,2021-12-09,Clothing,756.03
+1108,Patricia Jones,patricia.jones@hotmail.com,7687014626,Saudi Arabia,2024-08-09,Electronics,1582.42
+1079,Ahmed Moore,ahmed.moore@outlook.com,+11850163159,United States,2024-05-04,Electronics,88.62
+1081,Jessica Thomas,jessica.thomas@gmail.com,4661839826,United Kingdom,2021-10-12,Toys,
+1007,Sarah Miller,sarah.miller@outlook.com,+17080531003,Australia,2021-02-11,Sports,-607.78
+1077,David Anderson,david.anderson@yahoo.com,6156793341,United Kingdom,2021-07-11,Electronics,-952.27
+1119,Sarah Johnson,,6162299911,Saudi Arabia,2022-08-09,Books,2196.57
+1124,Khalid Wilson,khalid.wilson@hotmail.com,5454443283,Germany,2024-05-13,Sports,1706.68
+1006,Linda Taylor,linda.taylor@company.com,6562729806,Germany,2024-03-01,Electronics,
+1120,Sarah Jones,sarah.jones@company.com,3074505444,Canada,2024-11-26,Clothing,348.95
+1091,Khalid Garcia,khalid.garcia@outlook.com,1339596292,United States,2022-02-28,Books,1337.72
+1060,Joseph Taylor,joseph.taylor@gmail.com,3097289623,Canada,2024-03-18,Electronics,62.06
+1085,Fatima Hassan,fatima.hassan@outlook.com,3888993756,Canada,2024-10-23,Clothing,389.6
+1066,Thomas Davis,thomas.davis@hotmail.com,0174268414,Saudi Arabia,2024-06-12,Sports,-2394.04
+1042,Layla Brown,layla.brown@company.com,4235733221,Australia,2021-07-27,Books,1659.89
+1034,Sarah Moore,,+14024455022,Saudi Arabia,2021-05-23,Sports,243.02
+1068,Layla Jackson,layla.jackson@company.com,8740640391,Germany,2023-05-18,Toys,
+1072,Khalid Aziz,khalid.aziz@outlook.com,3427086688,United States,2023-03-07,Sports,520.29
+1110,David Martinez,david.martinez@outlook.com,5905992937,Germany,2022-09-25,Clothing,
+1011,William Rodriguez,william.rodriguez@outlook.com,0143634957,United Kingdom,2023-12-24,Clothing,2491.63
+1097,Fatima Hassan,fatima.hassan@company.com,+14389836403,Saudi Arabia,2023-03-02,Clothing,1256.46
+1031,William Miller,william.miller@outlook.com,4998569847,Australia,2024-05-24,Toys,
+1132,Sara Davis,sara.davis@hotmail.com,4556110022,United Kingdom,2023-01-03,,681.75
+1045,Joseph Smith,joseph.smith@hotmail.com,4727790104,Australia,2021-11-03,Sports,291.3
+1048,Thomas Martin,thomas.martin@outlook.com,5486874034,United Kingdom,2021-04-08,Clothing,324.32
+1020,Khalid Brown,khalid.brown@yahoo.com,,Canada,2023-08-27,Home & Garden,2471.21
+1046,David Taylor,david.taylor@gmail.com,2460953962,United Kingdom,2023-12-09,Books,2384.21
+1115,William Jones,william.jones@outlook.com,8844431069,Australia,2023-10-03,Home & Garden,-911.66
+1076,Joseph Jones,joseph.jones@gmail.com,9770088600,Canada,2022-07-17,Clothing,57.6
+1050,James Martin,james.martin@company.com,6582029702,Saudi Arabia,2022-04-29,Toys,966.39
+1051,James Brown,james.brown@company.com,1027868144,Saudi Arabia,2022-03-16,Home & Garden,1739.54
+1140,Susan Martin,susan.martin@company.com,0620034244,Germany,2021-05-08,Electronics,
+1095,Susan Khan,susan.khan@yahoo.com,9387005162,Germany,2021-05-26,Books,236.99
+1114,Susan Rodriguez,susan.rodriguez@outlook.com,0405411526,United States,2021-06-03,Electronics,854.81
+1052,Linda Johnson,linda.johnson@gmail.com,+18844225831,United Kingdom,2021-10-12,Books,80.32
+1065,Robert Johnson,robert.johnson@gmail.com,5493296685,Saudi Arabia,2023-04-01,Electronics,-2454.49
+1004,Sarah Williams,sarah.williams@gmail.com,7986872774,Germany,2024-07-29,Toys,1572.47
